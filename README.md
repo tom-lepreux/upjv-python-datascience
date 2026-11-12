@@ -20,6 +20,7 @@ Python & Data Science réalisés sur Google Colab.
 | [TD5](td05_enonce.ipynb) | Matplotlib, dictionnaires et Pandas | ✅ |
 | [TD6](td06_enonce.ipynb) | Logique, flux de contrôle et boucles | ✅ |
 | [TD7](td07_enonce.ipynb) | Étude de cas et Enquête sur les films Netflix | ✅ |
+| [TD8](td08_enonce.ipynb) | Pandas : agrégation et transformation | ✅ |
 
 ## Crédits
 
